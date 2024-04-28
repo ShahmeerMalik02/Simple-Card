@@ -1,0 +1,38 @@
+body{
+    background-color: gainsboro;
+}
+.container {
+    border: 4px solid wheat;
+    width: 20%;
+    align-items: center;
+    text-align: center;
+    margin-top: 140px;
+    padding: 10px;
+    margin-left: 560px;
+    background-color: antiquewhite;
+    border-radius: 7px;
+
+}
+
+.btn1{
+    margin-top: 10px;
+    margin-right: 99px;
+   
+}
+
+.btn1 button{
+    background-color: lightblue;
+}
+h2 {
+    font-size: 30px;
+}
+
+p {
+    font-size: 18px;
+}
+
+.button button {
+    font-size: 15px;
+    margin-bottom: 10px;
+    background-color: lightblue;
+}
